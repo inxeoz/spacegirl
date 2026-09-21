@@ -1,11 +1,11 @@
-# Spaceboy Hugo Theme
+# Spacegirl Hugo Theme
 
 Minimal Hugo blog theme with dark/light mode, 33 color palettes, syntax highlighting, pre-rendered Mermaid diagrams, and pre-rendered KaTeX math.
 
 ## Quick Start
 
 ```toml
-theme = "spaceboy"
+theme = "spacegirl"
 
 [params]
   mainSections = ["posts"]
@@ -209,7 +209,7 @@ graph TD;
 ### Build setup
 
 ```bash
-cd themes/spaceboy && npm install   # installs @mermaid-js/mermaid-cli
+cd themes/spacegirl && npm install   # installs @mermaid-js/mermaid-cli
 node scripts/render-mermaid-cache.mjs  # renders SVGs into site/static/mermaid-cache/
 ```
 

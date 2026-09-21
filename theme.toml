@@ -1,6 +1,6 @@
-features = ["blog"]
-license = "MIT + Visible Attribution"
-min_version = "0.132.0"
-name = "spaceboy"
-description = "Minimal Hugo blog with dark/light mode, 33 color palettes, pre-rendered Mermaid/KaTeX, and multiple view modes."
+name = "spacegirl"
+description = "Blog and personal diary Hugo theme with warm aesthetics, dark/light mode, pre-rendered Mermaid/KaTeX, and clean typography."
+license = "MIT"
 author = "Purushottam Singram"
+min_version = "0.132.0"
+features = ["blog", "diary"]
